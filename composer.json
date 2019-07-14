@@ -1,0 +1,14 @@
+{
+    "name": "clodial/php-base-api",
+    "description": "Basic Web Api example",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "api/"
+        ]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "8"
+    }
+}
